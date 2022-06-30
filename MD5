@@ -1,0 +1,9 @@
+126ded3123b6d13411c1c07a654ed239 *DESCRIPTION
+58dbd763357fed256a40540beb094d50 *LICENSE
+52457bc4d4330461ae9dbb6b79e6590a *NAMESPACE
+f233c2c324d7b09611c249fc4ae2df6e *NEWS.md
+6557a2979942165fe0107fdbd6aef09a *R/keyword_processor.R
+ae441950774cf5a385d9347e6e50aca1 *README.md
+7e6c93cb34029a4136d7c079d4efa779 *man/keyword_processor.Rd
+56b44f05f373dfa5eb6bcfbe670aa6d6 *tests/testthat.R
+0c5e196b25b2cf0f8adc4f4ace64b746 *tests/testthat/test-keyword_processor.R
